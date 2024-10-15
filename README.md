@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanthawat Wangpoomyai
 =============================================================================================================================================
 
-Programmer / Front-end Developer
+Front-end Developer
 -------------------
 
-My name is Nanthawat. I'm 22 years old.
+My name is Nanthawat. I'm 24 years old.
 
 * 🌍  I'm based in Udonthani, Thailand
 * ✉️  You can contact me at [nanthawat.nt.2409@gmail.com](mailto:nanthawat.nt.2409@gmail.com)
-* 🧠  I'm learning JavaScript, and React.js
+* 🧠  I'm learning Angular, and TypeScript.
 
 ### Skills
 
